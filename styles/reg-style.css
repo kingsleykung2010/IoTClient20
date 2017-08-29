@@ -1,0 +1,11 @@
+#formclassnamelog, #formdevnamelog
+{
+	font-size:  50%;
+	color:      gray;
+	font-style: italic;	
+}
+
+@media (min-width: 993px)
+{
+	#content { min-height: 800px; }
+}
